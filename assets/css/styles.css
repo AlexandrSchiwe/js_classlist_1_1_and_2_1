@@ -1,0 +1,10 @@
+.headlineStyle {
+    color: red;
+    font-size: 70px;
+}
+
+.listStyle {
+    color: blue;
+    font-size: 50px;
+    font-weight: bold;
+}
